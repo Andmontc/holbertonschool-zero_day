@@ -13,6 +13,9 @@ In this repository are the files for the zero-day projects of Holberton School
 ## Project VI
 [VI](https://github.com/Andmontc/holbertonschool-zero_day/tree/master/0x02-vi)
 
+## Projec GIT
+[GIT](https://github.com/Andmontc/holbertonschool-zero_day/tree/master/0x03-git)
+
 **Author**
 Oscar Andres Montes
 
